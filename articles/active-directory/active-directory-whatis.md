@@ -23,21 +23,15 @@
 
 
 
-Azure Active Directory (Azure AD) is Microsoft’s multi-tenant cloud based directory and identity management service.
+Azure Active Directory (Azure AD) is Microsoft’s multi-tenant cloud based directory and identity management service. It is the service you use every day to login to Office365, Azure.com and many other cloud services for business from Microsoft. If you use any of these services today, you already have the free version of Azure Active Directory!
 
-For IT Admins, Azure AD provides an affordable, easy to use solution to give employees and business partners single sign-on (SSO) access to [thousands of cloud SaaS Applications](http://blogs.technet.com/b/ad/archive/2014/09/03/50-saas-apps-now-support-federation-with-azure-ad.aspx) like Office365, Salesforce.com, DropBox, and Concur.
+Azure AD provides an affordable, easy to use solution to give employees and business partners single sign-on (SSO) access to [thousands of cloud SaaS Applications](http://blogs.technet.com/b/ad/archive/2014/09/03/50-saas-apps-now-support-federation-with-azure-ad.aspx) like Office365, Salesforce.com, DropBox, and Concur.
 
-For application developers, Azure AD lets you focus on building your application by making it fast and simple to integrate with a world class identity management solution used by millions of organizations around the world.
+And if you area developer, it's easy to integrate your application with Azure AD giving you an easy way to make your application enterprise ready without having to build complicated identity management systems.
 
-Azure AD also includes a full suite of identity management capabilities including multi-factor authentication, device registration, self-service password management, self-service group management, privileged account management, role based access control, application usage monitoring, rich auditing and security monitoring and alerting. These capabilities can help secure cloud based applications, streamline IT processes, cut costs and help assure corporate compliance goals are met.
+The Premium version of Azure AD includes a full suite of identity management capabilities including multi-factor authentication, self-service password management, self-service group management, privileged account management, role based access control, application usage monitoring, rich auditing and security monitoring and alerting. These capabilities can help secure cloud based applications, streamline IT processes, cut costs and help assure corporate compliance goals are met.
 
-Additionally, with just [four clicks](http://blogs.technet.com/b/ad/archive/2014/08/04/connecting-ad-and-azure-ad-only-4-clicks-with-azure-ad-connect.aspx), Azure AD can be integrated with an existing Windows Server Active Directory, giving organizations the ability to leverage their existing on-premises identity investments to manage access to cloud based SaaS applications.
-
-If you are an Office365, Azure or Dynamics CRM Online customer, you might not realize that you are already using Azure AD. Every Office365, Azure and Dynamics CRM tenant is actually already an Azure AD tenant. Whenever you want you can start using that tenant to manage access to thousands of other cloud applications Azure AD integrates with!
-
-
-
-
+Getting Azure AD work is super easy. It's cloud based solution that you can start using immediately. And if you already have a Window Server Active Directory, With only [four clicks](http://blogs.technet.com/b/ad/archive/2014/08/04/connecting-ad-and-azure-ad-only-4-clicks-with-azure-ad-connect.aspx), Azure AD can be integrated with your existing Windows Server Active Directory, which lets you use the same user identities and groups you already have to manage access to cloud based SaaS applications.
 
 <center>![Azure AD Connect Stack](./media/active-directory-whatis/Azure_Active_Directory.png)
 </center>
